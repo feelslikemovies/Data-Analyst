@@ -1,4 +1,3 @@
 # Data-Analyst
-Data analyst
-##Στατιστική στην R
+Στατιστική στην R
 *clustering*
