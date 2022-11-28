@@ -1,3 +1,3 @@
-|#Example of README.md
-Στατιστική στην R
-*clustering*
+#Example of README.md
+version control
+*github*
